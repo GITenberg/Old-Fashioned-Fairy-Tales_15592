@@ -1,0 +1,40 @@
+_repo: Old-Fashioned-Fairy-Tales_15592
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ewing, Juliana Horatia Gatty
+    aliases:
+    - Ewing, J. H. (Juliana Horatia)
+    - Ewing, J.H.
+    birthdate: 1841
+    deathdate: 1885
+    gutenberg_agent_id: '1803'
+    url: http://www.gutenberg.org/2009/agents/1803
+    wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Children's Literature
+gutenberg_issued: '2005-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: Preface -- Good luck is better than gold -- The hillman and the housewife
+  -- The neck -- The Nix in mischief -- The cobbler and the ghosts -- The Laird and
+  the Man of Peace -- The ogre courting -- The magicians' gifts -- The widows and
+  the strangers -- Kind William and the water sprite -- Murdoch's Rath -- The little
+  darner -- The fiddler in the fairy ring -- "I won't" -- The magic jar -- The first
+  wife's wedding-ring -- The magician turned mischief-maker -- Knave and fool -- Under
+  the sun.
+title: Old-Fashioned Fairy Tales
+url: http://www.gutenberg.org/ebooks/15592
